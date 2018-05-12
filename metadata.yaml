@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '2241'
     url: http://www.gutenberg.org/2009/agents/2241
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18606#The-Camp-Fire-Girls-in-the-Maine-Woods--Or-The-Winnebagos-Go-Camping
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2006-06-16'
 gutenberg_type: Text
