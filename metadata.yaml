@@ -1,0 +1,30 @@
+_repo: The-Camp-Fire-Girls-in-the-Maine-Woods--Or-The-Winnebagos-Go-Camping_18606
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Frey, Hildegard G.
+    aliases:
+    - Frey, Hildegard G. (Hildegard Gertrude)
+    - Frey, Hildegarde G.
+    birthdate: 1891
+    deathdate: 1957
+    gutenberg_agent_id: '2241'
+    url: http://www.gutenberg.org/2009/agents/2241
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2006-06-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18606'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Camp Fire Girls -- Juvenile fiction'
+title: The Camp Fire Girls in the Maine Woods; Or, The Winnebagos Go Camping
+url: http://www.gutenberg.org/ebooks/18606
